@@ -23,7 +23,7 @@
   binary_date: 1718867192
   trace_name: skype-background
   trace_uri: traces/skype-background.pcap
-- description: Traffic captured using Microsoft Teams
+- description: Traffic captured using Microsoft Teams, dirty trace
   infected_mac_address: 00:50:56:8c:8a:4a
   infected_ip_address: 192.168.1.52
   gateway_mac_address: 00:50:56:8c:16:64
@@ -59,7 +59,7 @@
   binary_date: 1718868052
   trace_name: web2-background
   trace_uri: traces/web2-background.pcap
-- description: Traffic captured using Microsoft Edge, navigating online market (Amazon)
+- description: Traffic captured using Microsoft Edge, navigating online market (Amazon) dirty trace
   infected_mac_address: 00:50:56:8c:8a:4a
   infected_ip_address: 192.168.1.52
   gateway_mac_address: 00:50:56:8c:16:64
