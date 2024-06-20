@@ -1,0 +1,73 @@
+---
+- description: Traffic captured using Outlook
+  infected_mac_address: 00:50:56:8c:8a:4a
+  infected_ip_address: 192.168.1.52
+  gateway_mac_address: 00:50:56:8c:16:64
+  gateway_ip_address: 192.168.1.1
+  bytes: 3596 
+  trace_generation_time: 1718867450.780316108
+  packets: 4487
+  sha256: 5733500642fd2ed97679f24daca6dde693da031b0e699314442573a605b7e087
+  binary_date: 1718867450
+  trace_name: outlook-background
+  trace_uri: traces/outlook-background.pcap
+- description: Traffic captured using Skype
+  infected_mac_address: 00:50:56:8c:8a:4a
+  infected_ip_address: 192.168.1.52
+  gateway_mac_address: 00:50:56:8c:16:64
+  gateway_ip_address: 192.168.1.1
+  bytes: 16036 
+  trace_generation_time: 1718867192.139006479
+  packets: 14928
+  sha256: ef74eb3788e5a7a1cf72cf63b3cdcf1a496f8fbe0895c6b391d67ce495779675
+  binary_date: 1718867192
+  trace_name: skype-background
+  trace_uri: traces/skype-background.pcap
+- description: Traffic captured using Microsoft Teams
+  infected_mac_address: 00:50:56:8c:8a:4a
+  infected_ip_address: 192.168.1.52
+  gateway_mac_address: 00:50:56:8c:16:64
+  gateway_ip_address: 192.168.1.1
+  bytes: 111732 
+  trace_generation_time: 1718867322.759667764
+  packets: 80359
+  sha256: ef74eb3788e5a7a1cf72cf63b3cdcf1a496f8fbe0895c6b391d67ce495779675 
+  binary_date: 1718867322
+  trace_name: teams-background
+  trace_uri: traces/teams-background.pcap
+- description: Traffic captured using Microsoft Edge, navigating journal (New York Times)
+  infected_mac_address: 00:50:56:8c:8a:4a
+  infected_ip_address: 192.168.1.52
+  gateway_mac_address: 00:50:56:8c:16:64
+  gateway_ip_address: 192.168.1.1
+  bytes: 30628 
+  trace_generation_time: 1718867943.982815664
+  packets: 24601
+  sha256: 8f1d5ed13f306aea4a295abbbf0f075a77c0fe660b831287c49cdb141cc7207c
+  binary_date: 1718867943
+  trace_name: web1-background
+  trace_uri: traces/web1-background.pcap
+- description: Traffic captured using Microsoft Edge, navigating video (YouTube)
+  infected_mac_address: 00:50:56:8c:8a:4a
+  infected_ip_address: 192.168.1.52
+  gateway_mac_address: 00:50:56:8c:16:64
+  gateway_ip_address: 192.168.1.1
+  bytes: 20952 
+  trace_generation_time: 1718868052.635366698
+  packets: 21338
+  sha256: 40750ae6b2999f832f242446854706eb2073b11bee865103dbe739279e5d568a
+  binary_date: 1718868052
+  trace_name: web2-background
+  trace_uri: traces/web2-background.pcap
+- description: Traffic captured using Microsoft Edge, navigating online market (Amazon)
+  infected_mac_address: 00:50:56:8c:8a:4a
+  infected_ip_address: 192.168.1.52
+  gateway_mac_address: 00:50:56:8c:16:64
+  gateway_ip_address: 192.168.1.1
+  bytes: 121992 
+  trace_generation_time: 1718868145.891839768
+  packets: 97948
+  sha256: f6e25cdb9432aefb2f114dd94d256b4ca83233d663ef3944c853e0f48052967d 
+  binary_date: 1718868145
+  trace_name: web3-background
+  trace_uri: traces/web3-background.pcap
