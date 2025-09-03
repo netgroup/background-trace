@@ -16,6 +16,8 @@ traces:
     binary_date: 1718867450
     trace_name: outlook-background
     trace_uri: traces/outlook-background.pcap
+    first_packet_ts: 1718874586.282093
+    last_packet_ts: 1718874649.760171
   - description: Traffic captured using Skype
     infected_mac_address: 00:50:56:8c:8a:4a
     infected_ip_address: 192.168.1.52
@@ -28,6 +30,8 @@ traces:
     binary_date: 1718867192
     trace_name: skype-background
     trace_uri: traces/skype-background.pcap
+    first_packet_ts: 1718874314.062723
+    last_packet_ts: 1718874391.758374
   - description: Traffic captured using Microsoft Teams, dirty trace
     infected_mac_address: 00:50:56:8c:8a:4a
     infected_ip_address: 192.168.1.52
@@ -40,6 +44,8 @@ traces:
     binary_date: 1718867322
     trace_name: teams-background
     trace_uri: traces/teams-background.pcap
+    first_packet_ts: 1718874462.363579
+    last_packet_ts: 1718874516.711168 
   - description: Traffic captured using Microsoft Edge, navigating journal (New York Times)
     infected_mac_address: 00:50:56:8c:8a:4a
     infected_ip_address: 192.168.1.52
@@ -52,6 +58,8 @@ traces:
     binary_date: 1718867943
     trace_name: web1-background
     trace_uri: traces/web1-background.pcap
+    first_packet_ts: 1718875101.434811
+    last_packet_ts: 1718875142.22431
   - description: Traffic captured using Microsoft Edge, navigating video (YouTube)
     infected_mac_address: 00:50:56:8c:8a:4a
     infected_ip_address: 192.168.1.52
@@ -64,6 +72,8 @@ traces:
     binary_date: 1718868052
     trace_name: web2-background
     trace_uri: traces/web2-background.pcap
+    first_packet_ts: 1718875196.337888
+    last_packet_ts: 1718875252.260902
   - description: Traffic captured using Microsoft Edge, navigating online market (Amazon) dirty trace
     infected_mac_address: 00:50:56:8c:8a:4a
     infected_ip_address: 192.168.1.52
@@ -76,3 +86,5 @@ traces:
     binary_date: 1718868145
     trace_name: web3-background
     trace_uri: traces/web3-background.pcap
+    first_packet_ts: 1718875280.860569
+    last_packet_ts: 1718875345.831283
